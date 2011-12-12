@@ -1,0 +1,14 @@
+#Pointer {
+    position: fixed;
+    top: 1em;
+    right: 1em;
+    border: 1px solid red;
+    opacity: .666;
+}
+.Pointer {
+    margin: .5em;
+    padding: .25em .5em;
+    border: 1px solid #ccc;
+    background: #eee;
+    text-transform: uppercase;
+}
