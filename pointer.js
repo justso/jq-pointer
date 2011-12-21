@@ -1,5 +1,12 @@
-// Show the depth stack @ fixed position in upper right
-// List the pivotal choices for debugging
+/*
+ *  List the pivotal choices for debugging
+ *  Show the depth stack @ fixed position in upper right
+ *
+ *  global namespace -- declare nothing out here
+ *
+ *  dependancies:
+ *      jq.drt-extend.js
+ */
 
 var Pointer = {
     divs : [],
