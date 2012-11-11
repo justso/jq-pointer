@@ -1,7 +1,4 @@
 /*
- *  List the pivotal choices for debugging
- *  Show the depth stack @ fixed position in upper right
- *
  *  global namespace -- declare nothing out here
  *
  *  dependancies:
